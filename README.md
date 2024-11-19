@@ -8,7 +8,7 @@
 - Install the `playsound` library using [pip](https://pypi.org/project/playsound/). Use the library to play an `.mp3` file using Python. You can use the provided files or download your own for this step.
 - Add a digital button or touch sensor to trigger your `.mp3` file. 
 
-- [ ] Upload your code to this repository
+- [ x ] Upload your code to this repository
 
 ## Part 2 - Morse Code
 
@@ -17,7 +17,7 @@
 
 ![](https://lh6.googleusercontent.com/fbLlD9iAjtqRecSJJi-6z13yp2JG53DfPZuZ3BmYsaTLzNLh2MQBM_i64WpWQPUwGycVxjau1JNeh5AODibOIEqYO8xD_j48LU1OIlQPk2OBochey6EijBN3_q7WDEZdHfB_COQla9kX9odQ9YnZcVg)
 
-- [ ] Upload your code to this repository
+- [ x ] Upload your code to this repository
 
 ## Part 3 - Translate to Morse Code
 
@@ -26,7 +26,11 @@
 - *Challenge(Optional): replace common phrases for their  [common abbreviations](https://en.wikipedia.org/wiki/Morse_code_abbreviations) before translating. You can use a data structure like a dictionary for this or read the information from a CSV file for a little more of a challenge.*
 - Take a video of your program.
 
-- [ ] Upload your code and your video to this repository
+
+https://github.com/user-attachments/assets/32dd8032-eb20-4c2e-8150-2716aeeed996
+
+
+- [ x ] Upload your code and your video to this repository
 
 ## Rubric 
 
