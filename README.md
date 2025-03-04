@@ -17,8 +17,6 @@
 
 ![](https://lh6.googleusercontent.com/fbLlD9iAjtqRecSJJi-6z13yp2JG53DfPZuZ3BmYsaTLzNLh2MQBM_i64WpWQPUwGycVxjau1JNeh5AODibOIEqYO8xD_j48LU1OIlQPk2OBochey6EijBN3_q7WDEZdHfB_COQla9kX9odQ9YnZcVg)
 
-- [ x ] Upload your code to this repository
-
 ## Part 3 - Translate to Morse Code
 
 - Create a file `translate_morse.py`.
@@ -29,8 +27,6 @@
 
 https://github.com/user-attachments/assets/32dd8032-eb20-4c2e-8150-2716aeeed996
 
-
-- [ x ] Upload your code and your video to this repository
 
 ## Rubric 
 
